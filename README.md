@@ -4,4 +4,4 @@ Sharing brute force scripts that I write while creating youtube videos demonstra
 # Try Hack Me Challenges and Videos(Hindi)
 - [Mr Robot CTF - Try Hack Me](https://www.tryhackme.com/room/mrrobot)
     - [Mr Robot CTF - Youtube - 1](https://youtu.be/u4CTGT30ZZs)
-    - [Mr Robot CTF - Youtube - 2]()
+    - [Mr Robot CTF - Youtube - 2](https://youtu.be/aiZaRcomwiE)
