@@ -22,4 +22,4 @@ with ThreadPoolExecutor(max_workers = 50) as executor:
 		for future in as_completed(futures):
 			if future.result()[0].find("The password you entered for the username") == -1:
 				print(future.result()[1])
-
+				break
